@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&fontSize=60&text=Hi%20Everyone!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&fontSize=60&text=Hi%20Everyone!&fontColor=ffffff)
 
 I'm Iman, and I'm in the midst of an exciting career transition to become a full-stack developer. I'm currently studying at the University of Birmingham Coding Bootcamp. I've decided to follow my passion for programming and dive headfirst into the world of software development.
 

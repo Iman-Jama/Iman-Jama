@@ -20,6 +20,8 @@ Here are some of the programming languages and technologies I have experience wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="Git" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" alt="Handlebars" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="sequelize" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoDB/mongoDB-original.svg" alt="sequelize" height="50" />
 </div>
 
 I'm excited to connect with fellow developers, potential mentors, and industry professionals. If you have any questions, exciting projects, or collaboration opportunities, please don't hesitate to reach out.

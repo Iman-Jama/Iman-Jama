@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&fontSize=60&text=Hi%20Everyone!&fontColor=ffffff)
 
+<img src="https://komarev.com/ghpvc/?username=Iman-Jama&style=flat-square&color=blue" alt=""/>
+
 I'm Iman, and I'm in the midst of an exciting career transition to become a full-stack developer. I'm currently studying at the University of Birmingham Coding Bootcamp. I've decided to follow my passion for programming and dive headfirst into the world of software development.
 
 On my GitHub profile, you'll discover a collection of projects that showcase my growth as a full-stack developer. I'm constantly exploring new technologies, collaborating with peers, and seeking opportunities to contribute to open-source projects.

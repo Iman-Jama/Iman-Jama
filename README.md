@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&fontSize=60&text=Hi%20Everyone!&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=125&section=header&fontSize=60&text=Hi%20Everyone!&fontColor=ffffff)
+<div id="header" align="center">
+  <img src="https://sdk.bitmoji.com/render/panel/20054939-101203047516_2-s5-v1.png?transparent=1&palette=1&scale=2" width="100"/> <br>
+  <img src="https://komarev.com/ghpvc/?username=Iman-Jama&style=flat-square&color=blue" alt=""/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Iman-Jama&style=flat-square&color=blue" alt=""/>
 
 I'm Iman, and I'm in the midst of an exciting career transition to become a full-stack developer. I'm currently studying at the University of Birmingham Coding Bootcamp. I've decided to follow my passion for programming and dive headfirst into the world of software development.
 

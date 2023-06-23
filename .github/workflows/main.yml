@@ -18,6 +18,8 @@ jobs:
           github_user_name: Iman-Jama
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+        env:
+          ACTIONS_STEP_DEBUG: true
 
       - run: git status
 
@@ -32,7 +34,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      ACTIONS_STEP_DEBUG: true
-
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACTIONS_STEP_DEBUG: true

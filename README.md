@@ -1,6 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=125&section=header&fontSize=60&text=Hi%20Everyone!&fontColor=ffffff)
 <div id="header" align="center">
   <img src="https://sdk.bitmoji.com/render/panel/20054939-101203047516_2-s5-v1.png?transparent=1&palette=1&scale=2" width="100"/> <br>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/drimanjama/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+     <a href='https://iman-jama.github.io/my-portfolio/'>
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>    
+  </a> 
+     <a href='mailto:iman.jama891@gmail.com'>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>    
+  </a> <br>
   <img src="https://komarev.com/ghpvc/?username=Iman-Jama&style=flat-square&color=blue" alt=""/>
 </div>
 

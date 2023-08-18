@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/drimanjama/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-     <a href='https://iman-jama.github.io/my-portfolio/'>
+     <a href='https://iman-jama.github.io/Imans-Portofolio/'>
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>    
   </a> 
      <a href='mailto:iman.jama891@gmail.com'>
